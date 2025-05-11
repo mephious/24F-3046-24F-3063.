@@ -1,0 +1,28 @@
+Kingdom: hamna | Date: Mon Apr 28 22:22:51 2025
+ | Turns Survived: 2 | Final Score: 5404
+Final Population: 957 | Gold: 1069 | Military: 100
+-----------------------------------------------------
+Kingdom: crazy | Date: Wed Apr 30 08:25:34 2025
+ | Turns Survived: 2 | Final Score: 5844
+Final Population: 969 | Gold: 1189 | Military: 150
+-----------------------------------------------------
+Kingdom: craziness | Date: Wed Apr 30 08:41:20 2025
+ | Turns Survived: 16 | Final Score: 13626
+Final Population: 710 | Gold: 7832 | Military: 304
+-----------------------------------------------------
+Kingdom: crazy | Date: Wed Apr 30 18:30:58 2025
+ | Turns Survived: 2 | Final Score: 5575
+Final Population: 969 | Gold: 1189 | Military: 100
+-----------------------------------------------------
+Kingdom: crazy | Date: Wed Apr 30 18:39:17 2025
+ | Turns Survived: 6 | Final Score: 7112
+Final Population: 627 | Gold: 1605 | Military: 336
+-----------------------------------------------------
+Kingdom: crazy | Date: Wed Apr 30 19:24:53 2025
+ | Turns Survived: 10 | Final Score: 6973
+Final Population: 455 | Gold: 1841 | Military: 100
+-----------------------------------------------------
+Kingdom: eldoria | Date: Sun May 11 18:05:00 2025
+ | Turns Survived: 8 | Final Score: 15875
+Final Population: 333 | Gold: 5877 | Military: 210
+-----------------------------------------------------
